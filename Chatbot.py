@@ -9,7 +9,7 @@ def load_knowledge_base(file_path):
 
 
 def chat_bot():
-    # replace 'file path' with the file path to the JSON file is stored
+    # replace 'file path' with the file path to where the JSON file is stored
     file_contents = load_knowledge_base(
         'file path')
 
