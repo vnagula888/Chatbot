@@ -1,29 +1,376 @@
 {
-    "questions": 
-    [
-      {
-        "question": "hello",
-        "answer": "Hi!"
-      },
-      {
-        "question": "hi there",
-        "answer": "Hello"
-      },
-      {
-        "question": "hi",
-        "answer": "Hello"
-      },
-      {
-        "question": "how are you?",
-        "answer": "I am fine, thank you for asking. how are you today?"
-      },
-      {
-        "question": "i am good",
-        "answer": "that's great! how can I help you?"
-      },
-      {
-        "question": "thank you!",
-        "answer": "You are welcome!"
-      }
-    ]
-  }
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "Hi!"
+    },
+    {
+      "question": "hi there",
+      "answer": "Hello"
+    },
+    {
+      "question": "hi",
+      "answer": "Hello"
+    },
+    {
+      "question": "how are you?",
+      "answer": "I am fine, thank you for asking. how are you today?"
+    },
+    {
+      "question": "i am good",
+      "answer": "that's great! how can I help you?"
+    },
+    {
+      "question": "thank you!",
+      "answer": "You are welcome!"
+    },
+    {
+      "question": "principal",
+      "answer": "Mike Hayes. You can follow Mike Hayes at Twitter handle: @AHS_MH"
+    },
+    {
+      "question": "who is the vice principal",
+      "answer": "Sean Baker"
+    },
+    {
+      "question": "who are the assistant principals",
+      "answer": "Victor M Torres and Sean Baker"
+    },
+    {
+      "question": "who is the superintendent",
+      "answer": "Michael Roberto, he can be reached at Office phone:  330-954-2228"
+    },
+    {
+      "question": "who is the assistant superintendent",
+      "answer": "Paul Milcetich, he can be reached at  pmilcetich@aurora-schools.org, phone: 330-954-2115"
+    },
+    {
+      "question": "board of education",
+      "answer": "All the board of education information can be found here: https://www.aurora-schools.org/board-of-education"
+    },
+    {
+      "question": "what is the school address",
+      "answer": "109 W. Pioneer Trail, Aurora, OH 44202"
+    },
+    {
+      "question": "school phone number",
+      "answer": "School phone number: 330-562-3501"
+    },
+    {
+      "question": "guidance counselors",
+      "answer": "Kalee Oberlin for students with last names: A-G, she can be reached at koberlin@aurora-schools.org, phone: 330-954-2135 \n April Nenadal for students with last names: O-H, she can be reached at anenadal@aurora-schools.org, phone: 330-954-2282 \n Chris Miley for students with last names: P-Z, she can be reached at cmiley@aurora-schools.org, phone: 330-954-2161"
+    },
+    {
+      "question": "counselors",
+      "answer": "Kalee Oberlin for students with last names: A-G, she can be reached at koberlin@aurora-schools.org, phone: 330-954-2135 \n April Nenadal for students with last names: O-H, she can be reached at anenadal@aurora-schools.org, phone: 330-954-2282 \n Chris Miley for students with last names: P-Z, she can be reached at cmiley@aurora-schools.org, phone: 330-954-2161"
+    },
+    {
+      "question": "guidance website link",
+      "answer": "https://sites.google.com/aurora-schools.org/greenmengo/home"
+    },
+    {
+      "question": "guidance",
+      "answer": " More details can be found here: https://sites.google.com/aurora-schools.org/greenmengo/home"
+    },
+    {
+      "question": "school events calendar",
+      "answer": "https://ahs.aurora-schools.org/quick-links/school-events"
+    },
+    {
+      "question": "excel tecc link",
+      "answer": "https://www.mayfieldschools.org/exceltecc_home.aspx"
+    },
+    {
+      "question": "senior internships",
+      "answer": "https://sites.google.com/aurora-schools.org/ahs-senior-internship-2023/home?authuser=0"
+    },
+    {
+      "question": "school profile",
+      "answer": "https://resources.finalsite.net/images/v1655919539/auroraschoolsorg/gdgabfdxwgnklsidnehp/aurorahighschoolprofile-2022.pdf"
+    },
+    {
+      "question": "morning announcements",
+      "answer": "https://ahs.aurora-schools.org/morning-announcements"
+    },
+    {
+      "question": "student handbook",
+      "answer": "https://docs.google.com/document/d/1KEjN2wS4_9v5-6TcPmTzF04gjEq5w03Y4wXWPjxJyC4/edit"
+    },
+    {
+      "question": "progressbook",
+      "answer": "https://centraladmin.sparcc.org/auth/login?signin=fe5408da5061c37023a4ca6db8b1f3b6"
+    },
+    {
+      "question": "grades",
+      "answer": "https://centraladmin.sparcc.org/auth/login?signin=fe5408da5061c37023a4ca6db8b1f3b6"
+    },
+    {
+      "question": "report card",
+      "answer": "https://centraladmin.sparcc.org/auth/login?signin=fe5408da5061c37023a4ca6db8b1f3b6"
+    },
+    {
+      "question": "staff directory",
+      "answer": " Details can be found here: https://ahs.aurora-schools.org/quick-links/staff-directory"
+    },
+    {
+      "question": "school newsletters",
+      "answer": " Details can be found here: https://ahs.aurora-schools.org/resources/newsletters"
+    },
+    {
+      "question": "lunch menu",
+      "answer": " Details can be found here: https://auroraschools.nutrislice.com/"
+    },
+    {
+      "question": "planned absence form",
+      "answer": " Form can be found here: https://resources.finalsite.net/images/v1674759664/auroraschoolsorg/jlr9ziugaxylxjilqhze/PlannedAbsenceForm-HS1_1.pdf"
+    },
+    {
+      "question": "ahs club",
+      "answer": "https://docs.google.com/document/d/13cQ8wnlc8A7E2dtbKJmbtXPS0vYypx9RSwC5kKNeOww/edit"
+    },
+    {
+      "question": "school fee payments",
+      "answer": "https://payschoolscentral.com/"
+    },
+    {
+      "question": "meal payment",
+      "answer": "https://payschoolscentral.com/"
+    },
+    {
+      "question": "sports schedule",
+      "answer": "https://go.dragonflyathletics.com/sites/OHSAA/7VPXNG/about"
+    },
+    {
+      "question": "graduation requirements",
+      "answer": "https://education.ohio.gov/getattachment/Topics/Ohio-s-Graduation-Requirements/Graduation-2021-and-beyond_Guidance-Document.pdf"
+    },
+    {
+      "question": "band",
+      "answer": "Teacher: Mr.Nabring, email: enabring@aurora-schools.org, more info can found at: https://www.aurorabands.com/"
+    },
+    {
+      "question": "orchestra",
+      "answer": " Teacher: Mr.Burdett, email: jburdett@aurora-schools.org, more info can found at: http://www.auroraorchestras.org/"
+    },
+    {
+      "question": "computer science?",
+      "answer": "Mr.Rakow (jrakow@aurora-schools.org)"
+    },
+    {
+      "question": "what food is served in school?",
+      "answer": "https://auroraschools.nutrislice.com/"
+    },
+    {
+      "question": "college credit plus",
+      "answer": " Details of CCP can be found here: https://sites.google.com/aurora-schools.org/greenmengo/home/college-credit-plus"
+    },
+    {
+      "question": "ccp",
+      "answer": " Details of CCP can be found here: https://sites.google.com/aurora-schools.org/greenmengo/home/college-credit-plus"
+    },
+    {
+      "question": "mathematics teachers",
+      "answer": "Mr. Baczkowski (tbaczkowski@aurora-schools.org) \n Mr. Dingman (mdingman@aurora-schools.org) \n Mrs. Duncan (sdincan@aurora-schools.org) \n Mr.Rakow (jrakow@aurora-schools.org) \n Mrs. Simmerman (jsimmerman@aurora-schools.org) \n Mrs. Stewarts (kstewarts@aurora-schools.org)"
+    },
+    {
+      "question": "math teachers",
+      "answer": "Mr. Baczkowski (tbaczkowski@aurora-schools.org) \n Mr. Dingman (mdingman@aurora-schools.org) \n Mrs. Duncan (sdincan@aurora-schools.org) \n Mr.Rakow (jrakow@aurora-schools.org) \n Mrs. Simmerman (jsimmerman@aurora-schools.org) \n Mrs. Stewarts (kstewarts@aurora-schools.org)"
+    },
+    {
+      "question": "english teachers?",
+      "answer": "Mrs.Kington, email: jkington@aurora-schools.org \n Mrs.White, email: kwhite@aurora-schools.org \n Mrs.Lindley, email: mlindley@aurora-schools.org \n Mrs. Baker, email: kbaker@aurora-schools.org \n Mrs.Tresko, email: jtresko@aurora-schools.org \n Ms.Hilston chilston@aurora-schools.org \n Mr.Pinzone, email: gpinzone@aurora-schools.org, Mrs.Taylor, email: ttaylor@aurora-schools.org"
+    },
+    {
+      "question": "english language arts teachers?",
+      "answer": "Mrs.Kington, email: jkington@aurora-schools.org \n Mrs.White, email: kwhite@aurora-schools.org \n Mrs.Lindley, email: mlindley@aurora-schools.org \n Mrs. Baker, email: kbaker@aurora-schools.org \n Mrs.Tresko, email: jtresko@aurora-schools.org \n Ms.Hilston chilston@aurora-schools.org \n Mr.Pinzone, email: gpinzone@aurora-schools.org, Mrs.Taylor, email: ttaylor@aurora-schools.org"
+    },
+    {
+      "question": "science teachers?",
+      "answer": "Mrs.Bell-Peters (lbell@aurora-schools.org) \n Mrs.Biro (mbiro@aurora-schools.org) \n Mr.Brown (kbrown@aurora-schools.org) \n Mr.Horvath (shorwvath@aurora-schools.org) \n Dr.Kourennyi (dkourennyi@aurora-schools.org) \n Mr.LoGalbo (jlogalbo@aurora-schools.org) \n Dr.Munson (dmunson@aurora-schools.org) \n Mr.Pichola (bpichola@aurora-schools.org) \n Mrs.Watt (mwatt@aurora-schools.org)"
+    },
+    {
+      "question": "social studies teachers?",
+      "answer": "Mrs.Dirda (mdirda@aurora-schools.org) \n Mr.Karakostas (ekarakostas@aurora-schools.org) \n Mr.Knapp (jknapp@aurora-schools.org) \n Mr.Kukarola (nkukarola@aurora-schools.org) \n Mr.Price (jprice@aurora-schools.org) \n Mr.Radkte (cradtke@aurora-schools.org) \n Mr.Rubin (mrubin@aurora-schools.org) \n Mrs.Schadle (jschadle@aurora-schools.org)"
+    },
+    {
+      "question": "music teachers?",
+      "answer": "Mr.Nabring (enabring@aurora-schools.org) \n Mr.Burdett (jburdett@aurora-schools.org) \n Mr.Downing (wdowning@aurora-schools.org)"
+    },
+    {
+      "question": "choir teacher?",
+      "answer": "Mr.Downing (wdowning@aurora-schools.org)"
+    },
+    {
+      "question": "foreign language teacher?",
+      "answer": "Mrs.Brancazio (ibrancazio@aurora-schools.org) \n Mr.Boe (jboe@aurora-schools.org) \n Ms.Cook (bcook@aurora-schools.org) "
+    },
+    {
+      "question": "spanish teacher?",
+      "answer": "Mrs.Brancazio (ibrancazio@aurora-schools.org)"
+    },
+    {
+      "question": "french teacher?",
+      "answer": "Ms.Cook (bcook@aurora-schools.org)"
+    },
+    {
+      "question": "sign language teacher?",
+      "answer": "Mr.Boe (jboe@aurora-schools.org)"
+    },
+    {
+      "question": "electives?",
+      "answer": "Mr.Albrecht (ralbrecht@aurora-schools.org) \n Mr.Head (ehead@aurora-schools.org) \n Mrs.McKenzie (hmckenzie@aurora-schools.org) \n Mr.Rakow (jrakow@aurora-schools.org) \n Mr.ricketts (vricketts@aurora-schools.org) \n Mrs.White (kwhite@aurora-schools.org)"
+    },
+    {
+      "question": "start time?",
+      "answer": "7:40 AM"
+    },
+    {
+      "question": "math department?",
+      "answer": "Mr. Baczkowski (tbaczkowski@aurora-schools.org) \n Mr. Dingman (mdingman@aurora-schools.org) \n Mrs. Duncan (sdincan@aurora-schools.org) \n Mr.Rakow (jrakow@aurora-schools.org) \n Mrs. Simmerman (jsimmerman@aurora-schools.org) \n Mrs. Stewarts (kstewarts@aurora-schools.org)"
+    },
+    {
+      "question": "end time",
+      "answer": "2:25pm"
+    },
+    {
+      "question": "when does school end",
+      "answer": "2:25 pm"
+    },
+    {
+      "question": "counselor with last names A-G",
+      "answer": "Mrs. Oberlin"
+    },
+    {
+      "question": "counselor with last names H-O",
+      "answer": "Mrs. Nenadal"
+    },
+    {
+      "question": "counselor with last names P-Z",
+      "answer": "Mrs. Miley"
+    },
+    {
+      "question": "guidance office",
+      "answer": "https://sites.google.com/aurora-schools.org/greenmengo/home/excel-tecc?authuser=0"
+    },
+    {
+      "question": "graduation date",
+      "answer": "Thursday, May 23 at 8 pm at the Aurora Veterans Stadium"
+    },
+    {
+      "question": "school's telephone number",
+      "answer": "330-562-3501"
+    },
+    {
+      "question": "handbook",
+      "answer": "https://docs.google.com/document/d/1KEjN2wS4_9v5-6TcPmTzF04gjEq5w03Y4wXWPjxJyC4/edit"
+    },
+    {
+      "question": "high honor roll",
+      "answer": "High Honor Roll will be awarded when a student earns a GPA of 4.0 or above for a nine-week grading period.\n"
+    },
+    {
+      "question": "honor roll",
+      "answer": "Honor Roll status is awarded when a student earns a grade point average of 3.5 to 3.99 for a nine-week grade period\n"
+    },
+    {
+      "question": "merit roll",
+      "answer": "Merit Roll status is awarded when a student earns a grade point average of 3.00 to 3.49 for a nine-week grading period.\n"
+    },
+    {
+      "question": "graduation requirements",
+      "answer": "English: 4 credits (core courses only, no electives)\nSocial Studies: 3 credits (core courses only, no electives, and including 1 credit of U.S.History and 1 credit of U.S. Government)\nMathematics: 4 credits (including 1 credit of Algebra II or Algebra II equivalent)\nScience: 3 credits (including one credit of Physical Science or Chemistry and 1 credit of Biology)\nHealth: \u00c2\u00bd credit\nPhysical Education: \u00c2\u00bd credit\nFinancial Literacy: \u00c2\u00bd credit\nElectives: See the AHS Program of Studies for details.\nTOTAL:  21 CREDITS\nIn addition, students must pass all requirements of state mandated testing or state alternative pathways to graduation. \n"
+    },
+    {
+      "question": "ap exam dates",
+      "answer": "AP US Government\n5/6/2024\n\n\nAP Art Portfolios Due\n5/10/2024\nAP Chemistry\n5/6/2024\nAP Calculus AB\n5/13/2024\nAP Human Geography\n5/7/2024\nAP Calculus BC\n5/13/2024\nAP Microeconomics \n5/7/2024\nAP Precalculus\n5/13/2024\nAP Statistics\n5/7/2024\nAP Eng. Lang & Comp.\n5/13/2024\nAP English Literature\n5/8/2024\nAP Physics C\n5/14/2024\nAP Comparative Gov.\n5/8/2024\nAP French\n5/15/2024\nAP Computer Science \n5/8/2024\nAP World History\n5/15/2024\nAP Environmental Science\n5/9/2024\nAP Spanish\n5/16/2024\nAP Psychology\n5/9/2024\nAP Biology\n5/16/2024\nAP US History\n5/10/2024\nAP Physics 1\n5/17/2024\nAP Macroeconomics\n5/10/2024\n\n\nAP Physics 2\n5/17/2024\n\n"
+    },
+    {
+      "question": "date of graduation?",
+      "answer": "Graduation date?"
+    },
+    {
+      "question": "staff work day",
+      "answer": "August 15th"
+    },
+    {
+      "question": "new student orientation",
+      "answer": "August 19th"
+    },
+    {
+      "question": "first day of school",
+      "answer": "August 20th"
+    },
+    {
+      "question": "labor day",
+      "answer": "September 2nd"
+    },
+    {
+      "question": "neoea Day",
+      "answer": "October 11th"
+    },
+    {
+      "question": "staff in-service day",
+      "answer": "October 14th"
+    },
+    {
+      "question": "first quarter ending",
+      "answer": "October 18th"
+    },
+    {
+      "question": "thanksgiving break",
+      "answer": "Nov 27-29"
+    },
+    {
+      "question": "second quarter ends",
+      "answer": "December 20"
+    },
+    {
+      "question": "winter break",
+      "answer": "Dec 23-Jan 3"
+    },
+    {
+      "question": "teacher records day",
+      "answer": "January 3rd"
+    },
+    {
+      "question": "first day of second semester",
+      "answer": "January 6th"
+    },
+    {
+      "question": "staff in-service day",
+      "answer": "February 14th"
+    },
+    {
+      "question": "presidents' day",
+      "answer": "February 17th"
+    },
+    {
+      "question": "staff in-service day",
+      "answer": "March 3rd"
+    },
+    {
+      "question": "third quarter ends",
+      "answer": "March 14th"
+    },
+    {
+      "question": "spring break",
+      "answer": "March 24-28"
+    },
+    {
+      "question": "no school",
+      "answer": "April 18-21, May 26"
+    },
+    {
+      "question": "last day of school",
+      "answer": "May 29th"
+    },
+    {
+      "question": "class of 2025 graduation",
+      "answer": "May 29th"
+    },
+    {
+      "question": "staff in-service day",
+      "answer": "May 30th"
+    }
+  ]
+}
